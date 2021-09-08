@@ -1,5 +1,5 @@
 <?php
-namespace daw\nicepay\Service;
+namespace Daw\Nicepay\Service;
 
 class NpMode {
     const Development = 0;

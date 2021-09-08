@@ -1,11 +1,11 @@
 <?php
 
 
-namespace daw\nicepay\Service\NpServices;
+namespace Daw\Nicepay\Service\NpServices;
 
-use daw\nicepay\Models\NpCancelRequest;
-use daw\nicepay\Service\NpService;
-use daw\nicepay\Utils\RestMethod;
+use Daw\Nicepay\Models\NpCancelRequest;
+use Daw\Nicepay\Service\NpService;
+use Daw\Nicepay\Utils\RestMethod;
 
 class NpCancelPayment extends NpService {
 

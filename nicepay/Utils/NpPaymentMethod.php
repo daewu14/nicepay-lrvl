@@ -1,5 +1,5 @@
 <?php
-namespace daw\nicepay\Utils;
+namespace Daw\Nicepay\Utils;
 
 final class NpPaymentMethod {
     const CreditCard = '01';       // Credit Card

@@ -1,7 +1,7 @@
 <?php
 
 
-namespace daw\nicepay\Utils;
+namespace Daw\Nicepay\Utils;
 
 
 final class NpResponseCode {

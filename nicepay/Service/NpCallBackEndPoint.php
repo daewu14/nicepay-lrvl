@@ -1,7 +1,7 @@
 <?php
 
 
-namespace daw\nicepay\Service;
+namespace Daw\Nicepay\Service;
 
 
 class NpCallBackEndPoint {

@@ -1,22 +1,22 @@
 <?php
 
 
-namespace daw\nicepay;
+namespace Daw\Nicepay;
 
-use daw\nicepay\Models\NpCancelRequest;
-use daw\nicepay\Models\NpCkStatusRequest;
-use daw\nicepay\Models\NpPaymentRequest;
-use daw\nicepay\Models\NpRegistrationRequest;
-use daw\nicepay\Service\NpCallBackEndPoint;
-use daw\nicepay\Service\NpServices\NpCancelPayment;
-use daw\nicepay\Service\NpServices\NpCheckStatus;
-use daw\nicepay\Service\NpServices\NpPayment;
-use daw\nicepay\Service\NpServices\NpRegistration;
-use daw\nicepay\Utils\Currency;
-use daw\nicepay\Utils\NpCancelType;
-use daw\nicepay\Utils\NpPaymentMethod;
-use daw\nicepay\Utils\NpResponse;
-use daw\nicepay\Utils\NpValidation;
+use Daw\Nicepay\Models\NpCancelRequest;
+use Daw\Nicepay\Models\NpCkStatusRequest;
+use Daw\Nicepay\Models\NpPaymentRequest;
+use Daw\Nicepay\Models\NpRegistrationRequest;
+use Daw\Nicepay\Service\NpCallBackEndPoint;
+use Daw\Nicepay\Service\NpServices\NpCancelPayment;
+use Daw\Nicepay\Service\NpServices\NpCheckStatus;
+use Daw\Nicepay\Service\NpServices\NpPayment;
+use Daw\Nicepay\Service\NpServices\NpRegistration;
+use Daw\Nicepay\Utils\Currency;
+use Daw\Nicepay\Utils\NpCancelType;
+use Daw\Nicepay\Utils\NpPaymentMethod;
+use Daw\Nicepay\Utils\NpResponse;
+use Daw\Nicepay\Utils\NpValidation;
 
 trait Nicepay {
 

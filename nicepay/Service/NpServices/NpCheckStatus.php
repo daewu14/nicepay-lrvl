@@ -1,11 +1,11 @@
 <?php
 
 
-namespace daw\nicepay\Service\NpServices;
+namespace Daw\Nicepay\Service\NpServices;
 
-use daw\nicepay\Models\NpCkStatusRequest;
-use daw\nicepay\Service\NpService;
-use daw\nicepay\Utils\RestMethod;
+use Daw\Nicepay\Models\NpCkStatusRequest;
+use Daw\Nicepay\Service\NpService;
+use Daw\Nicepay\Utils\RestMethod;
 
 class NpCheckStatus extends NpService {
 
