@@ -1,7 +1,7 @@
 <?php
 
 
-namespace packages\daw\nicepay\Service;
+namespace daw\nicepay\Service;
 
 
 class NpSetCallbackEndpoint {

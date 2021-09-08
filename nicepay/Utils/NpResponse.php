@@ -1,10 +1,10 @@
 <?php
 
 
-namespace packages\daw\nicepay\Utils;
+namespace daw\nicepay\Utils;
 
 
-use packages\daw\nicepay\Service\NpMode;
+use daw\nicepay\Service\NpMode;
 
 class NpResponse {
 

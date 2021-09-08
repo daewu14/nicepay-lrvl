@@ -1,9 +1,9 @@
 <?php
-namespace packages\daw\nicepay\Service;
+namespace daw\nicepay\Service;
 
-use packages\daw\nicepay\Utils\NpResponse;
-use packages\daw\nicepay\Utils\NpResponseCode;
-use packages\daw\nicepay\Utils\RestMethod;
+use daw\nicepay\Utils\NpResponse;
+use daw\nicepay\Utils\NpResponseCode;
+use daw\nicepay\Utils\RestMethod;
 use GuzzleHttp\Client;
 use GuzzleHttp\Exception\ClientException;
 use GuzzleHttp\Exception\ConnectException;

@@ -1,12 +1,12 @@
 <?php
 
 
-namespace packages\daw\nicepay\Utils;
+namespace daw\nicepay\Utils;
 
-use packages\daw\nicepay\Models\NpCancelRequest;
-use packages\daw\nicepay\Models\NpCkStatusRequest;
-use packages\daw\nicepay\Models\NpPaymentRequest;
-use packages\daw\nicepay\Models\NpRegistrationRequest;
+use daw\nicepay\Models\NpCancelRequest;
+use daw\nicepay\Models\NpCkStatusRequest;
+use daw\nicepay\Models\NpPaymentRequest;
+use daw\nicepay\Models\NpRegistrationRequest;
 use Illuminate\Support\Facades\Validator;
 
 final class NpValidation {

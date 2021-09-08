@@ -1,6 +1,6 @@
 <?php
 
-namespace packages\daw\nicepay\Models;
+namespace daw\nicepay\Models;
 
 
 class NpRegistrationRequest extends BaseNpRequest {

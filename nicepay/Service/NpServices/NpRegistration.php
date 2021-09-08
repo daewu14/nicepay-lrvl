@@ -1,5 +1,5 @@
 <?php
-namespace packages\daw\nicepay\Service\NpServices;
+namespace daw\nicepay\Service\NpServices;
 
 class NpRegistration extends NpService {
 

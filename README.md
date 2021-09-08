@@ -10,7 +10,7 @@ composer require daw/nicepay
 
 ```
 
-use packages\daw\nicepay\Nicepay;
+use daw\nicepay\Nicepay;
 
 class PgNicepay {
     use Nicepay{

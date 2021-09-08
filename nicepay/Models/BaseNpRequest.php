@@ -1,7 +1,7 @@
 <?php
 
 
-namespace packages\daw\nicepay\Models;
+namespace daw\nicepay\Models;
 
 
 class BaseNpRequest {

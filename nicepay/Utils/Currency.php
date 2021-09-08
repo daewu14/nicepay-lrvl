@@ -1,5 +1,5 @@
 <?php
-namespace packages\daw\nicepay\Utils;
+namespace daw\nicepay\Utils;
 
 final class Currency {
 
