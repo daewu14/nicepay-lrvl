@@ -1,0 +1,20 @@
+{
+    "name" : "daw/nicepay",
+    "description" : "Payment gateway Nicepay",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Daewu Bintara",
+            "email": "daewu.bintara1996@gmail.com"
+        }
+    ],
+    "require": {
+        "php": "^7.3|^8.0",
+        "guzzlehttp/guzzle": "^7.0.1"
+    },
+    "autoload": {
+        "psr-4": {
+            "Daw\\Nicepay\\": "nicepay/"
+        }
+    }
+}
