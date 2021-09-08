@@ -2,6 +2,7 @@
     "name" : "daw/nicepay",
     "description" : "Payment gateway Nicepay",
     "license": "MIT",
+    "type": "library",
     "authors": [
         {
             "name": "Daewu Bintara",
