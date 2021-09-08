@@ -7,6 +7,7 @@ composer require daw/nicepay
 ```
 
 ## Instansiasi
+Buat 1 class PgNicepay.php => tempelkan kode dibawah => Isi kredesial akun Nicepay
 
 ```
 
